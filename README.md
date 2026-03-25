@@ -49,17 +49,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mousam-gift&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mousam-gift&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mousam-gift&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mousam-gift&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mousam-gift&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mousam-gift&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mousam-gift&theme=radical&utcOffset=5.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mousam-gift&layout=compact&theme=tokyonight" />
 </p>
 
 ---
