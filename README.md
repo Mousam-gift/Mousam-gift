@@ -53,15 +53,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mousam-gift&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mousam-gift&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mousam-gift&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Mousam-gift&theme=tokyonight&v=1" />
 </p>
 
 ---
